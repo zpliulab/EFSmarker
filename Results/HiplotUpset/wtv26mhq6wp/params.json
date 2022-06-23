@@ -1,0 +1,43 @@
+{
+    "data": {
+        "datTable": {
+            "value": "",
+            "link": ""
+        }
+    },
+    "general": {
+        "cmd": "",
+        "imageExportType": [
+            "jpeg",
+            "pdf",
+            "pptx"
+        ],
+        "size": {
+            "width": 21,
+            "height": 5
+        },
+        "title": "",
+        "font": "Arial",
+        "taskname": "d187e980-f0a8-11ec-8d3c-6d07f3bd9b00",
+        "clientVersion": "nightly",
+        "paletteCustom": [],
+        "uuid": "1e84fb60-f37b-11ea-b7d2-77e1fecb328b",
+        "access_token": "b5deeb20-f0a8-11ec-b3fe-a530f47d833f",
+        "tmpcode": "JEn2zaA"
+    },
+    "extra": {
+        "setsLabel": "Numbers",
+        "combLabel": "Intersections",
+        "mode": "distinct",
+        "type": "list",
+        "ptSize": 3,
+        "lwd": 2,
+        "setBarColor": "#FFAB91",
+        "comBarColor": "#90CAF9",
+        "comColor": "#81C784",
+        "bgColor": "#F0F0F0",
+        "bgPtColor": "#CCCCCC",
+        "reorderSets": "asc",
+        "reorderComb": "degree-desc"
+    }
+}

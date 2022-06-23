@@ -1,0 +1,47 @@
+{
+    "dataArg": {},
+    "general": {
+        "cmd": "",
+        "imageExportType": [
+            "jpeg",
+            "pdf",
+            "pptx"
+        ],
+        "size": {
+            "width": 12,
+            "height": 6
+        },
+        "theme": "theme_stata",
+        "palette": "aaas",
+        "title": "",
+        "alpha": 0.5,
+        "xAxisTextAngle": 0,
+        "xAxisHjust": 0.5,
+        "xAxisVjust": 1,
+        "font": "Arial",
+        "legendPos": "right",
+        "legendDir": "vertical",
+        "titleSize": 12,
+        "axisTitleSize": 12,
+        "axisTextFontSize": 10,
+        "legendTitleSize": 10,
+        "legendTextSize": 10,
+        "taskname": "9538b220-f2a1-11ec-814b-69d8a93da5bb",
+        "clientVersion": "nightly",
+        "paletteCustom": [],
+        "uuid": "1e84fb60-f37b-11ea-b7d2-77e1fecb328b",
+        "access_token": "b5deeb20-f0a8-11ec-b3fe-a530f47d833f",
+        "tmpcode": "fSFzp42"
+    },
+    "extra": {
+        "add_geom": "jitter",
+        "stat_method": "t.test",
+        "stat_pos": -6
+    },
+    "data": {
+        "datTable": {
+            "value": "",
+            "link": ""
+        }
+    }
+}
