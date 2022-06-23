@@ -1,0 +1,13 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+Reactome Gene Sets,6,R-HSA-1442490,Collagen degradation,,-5.7,1.2e+02,19,30198,64,12,3,25,12,1300|1301|4320,COL10A1|COL11A1|MMP11,-1.4,MyList
+Canonical Pathways,11,M5885,NABA MATRISOME ASSOCIATED,,-5.2,17,8.7,30198,751,12,5,42,14,2277|2920|3624|4320|25891,VEGFD|CXCL2|INHBA|MMP11|PAMR1,-1.1,MyList
+Reactome Gene Sets,6,R-HSA-1474228,Degradation of the extracellular matrix,,-4.7,54,13,30198,140,12,3,25,12,1300|1301|4320,COL10A1|COL11A1|MMP11,-0.81,MyList
+GO Biological Processes,19,GO:0030198,extracellular matrix organization,19_GO:0009987 cellular process,-3.8,28,8.9,30198,271,12,3,25,12,1300|1301|4320,COL10A1|COL11A1|MMP11,-0.31,MyList
+GO Biological Processes,19,GO:0043062,extracellular structure organization,19_GO:0009987 cellular process,-3.8,28,8.8,30198,272,12,3,25,12,1300|1301|4320,COL10A1|COL11A1|MMP11,-0.31,MyList
+GO Biological Processes,19,GO:0045229,external encapsulating structure organization,19_GO:0009987 cellular process,-3.8,28,8.8,30198,274,12,3,25,12,1300|1301|4320,COL10A1|COL11A1|MMP11,-0.31,MyList
+Canonical Pathways,11,M5884,NABA CORE MATRISOME,,-3.8,27,8.8,30198,275,12,3,25,12,1300|1301|3489,COL10A1|COL11A1|IGFBP6,-0.31,MyList
+Reactome Gene Sets,6,R-HSA-1474244,Extracellular matrix organization,,-3.7,25,8.4,30198,301,12,3,25,12,1300|1301|4320,COL10A1|COL11A1|MMP11,-0.25,MyList
+Canonical Pathways,11,M5883,NABA SECRETED FACTORS,,-3.5,22,7.8,30198,343,12,3,25,12,2277|2920|3624,VEGFD|CXCL2|INHBA,-0.14,MyList
+GO Biological Processes,19,GO:0071396,cellular response to lipid,19_GO:0050896 response to stimulus,-3,15,6.3,30198,503,12,3,25,12,2706|2920|3624,GJB2|CXCL2|INHBA,0,MyList
+GO Biological Processes,19,GO:0007423,sensory organ development,19_GO:0032502 developmental process,-2.9,14,6,30198,555,12,3,25,12,1301|2706|3624,COL11A1|GJB2|INHBA,0,MyList
+GO Biological Processes,19,GO:0009617,response to bacterium,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.6,10,5.1,30198,732,12,3,25,12,2277|2706|2920,VEGFD|GJB2|CXCL2,0,MyList
