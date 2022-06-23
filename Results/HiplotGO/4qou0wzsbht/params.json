@@ -1,0 +1,60 @@
+{
+    "data": {
+        "datTable": {
+            "value": "",
+            "link": ""
+        }
+    },
+    "dataArg": {
+        "datTable": [
+            {
+                "value": "GO Term (BP)"
+            },
+            {
+                "value": "Count"
+            },
+            {
+                "value": "Z-score"
+            },
+            {
+                "value": "-Log(P)"
+            }
+        ]
+    },
+    "general": {
+        "cmd": "",
+        "imageExportType": [
+            "jpeg",
+            "pdf",
+            "pptx"
+        ],
+        "size": {
+            "width": 6,
+            "height": 4
+        },
+        "theme": "theme_bw",
+        "title": "",
+        "font": "Arial",
+        "legendPos": "right",
+        "legendDir": "vertical",
+        "titleSize": 12,
+        "axisTitleSize": 12,
+        "axisTextFontSize": 10,
+        "legendTitleSize": 10,
+        "legendTextSize": 10,
+        "taskname": "667b06f0-f14c-11ec-900a-bba5be771dfb",
+        "clientVersion": "nightly",
+        "paletteCustom": [],
+        "uuid": "1e84fb60-f37b-11ea-b7d2-77e1fecb328b",
+        "access_token": "b5deeb20-f0a8-11ec-b3fe-a530f47d833f",
+        "tmpcode": "hXHTTWK"
+    },
+    "extra": {
+        "topnum": 7,
+        "low_color": "#00438e",
+        "high_color": "#E43535",
+        "transform": "-log10",
+        "pq_value": "",
+        "show_percent": false
+    }
+}
