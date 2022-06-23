@@ -1,0 +1,13 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.9,GO:0007423,sensory organ development,M1,1,0
+1,-3.8,GO:0043062,extracellular structure organization,M1,1,0
+1,-4.7,R-HSA-1474228,Degradation of the extracellular matrix,M1,1,0
+1,-3.5,M5883,NABA SECRETED FACTORS,M1,1,0
+1,-3.7,R-HSA-1474244,Extracellular matrix organization,M1,1,0
+1,-3.8,GO:0045229,external encapsulating structure organization,M1,1,0
+1,-5.7,R-HSA-1442490,Collagen degradation,M1,1,0
+1,-2.6,GO:0009617,response to bacterium,M1,1,0
+1,-3.8,GO:0030198,extracellular matrix organization,M1,1,0
+1,-5.2,M5885,NABA MATRISOME ASSOCIATED,M1,1,0
+1,-3,GO:0071396,cellular response to lipid,M1,1,0
+1,-3.8,M5884,NABA CORE MATRISOME,M1,1,0

@@ -1,0 +1,5 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-3.8294449878880794,GO:0009987,cellular process,M1,1,GO:0030198 extracellular matrix organization
+1,-3.0440450826948173,GO:0050896,response to stimulus,M1,1,GO:0071396 cellular response to lipid
+1,-2.920705461873939,GO:0032502,developmental process,M1,1,GO:0007423 sensory organ development
+1,-2.5767908110054796,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0009617 response to bacterium
