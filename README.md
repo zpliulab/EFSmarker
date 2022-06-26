@@ -1,4 +1,4 @@
-# [EFSmarker (**E**nsemble **F**eature **S**election method to identify bio**marker**s)](https://github.com/zpliulab/EFSmarker)
+# [EFSmarker (**E**nsemble **F**eature **S**election method for bio**marker** discovery)](https://github.com/zpliulab/EFSmarker)
 
 ![Screenshot](Data/EFSmarker.jpg)
 
