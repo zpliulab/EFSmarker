@@ -13,7 +13,7 @@ In this work, we provide **propose an ensemble feature selection method for biom
 
 
 ## Citation
-Li, Lingyu, et al. "**Identifying Diagnostic Biomarkers of Breast Cancer Based on Gene Expression Data and Ensemble Feature Selection Methods**." [Current Bioinformatics](https://benthamscience.com/journal/cbio), 2023, 18(3): 232-246. [EFSmarker paper website](https://www.eurekaselect.com/article/128764)
+Li, Lingyu, Algabri Y A, Liu Z P. "**Identifying Diagnostic Biomarkers of Breast Cancer Based on Gene Expression Data and Ensemble Feature Selection Methods**." [Current Bioinformatics](https://benthamscience.com/journal/cbio), 2023, 18(3): 232-246. [EFSmarker paper website](https://www.eurekaselect.com/article/128764)
 
 
 ## Data
