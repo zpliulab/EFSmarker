@@ -1,4 +1,4 @@
-# [EFSmarker (Identifying diagnostic biomarkers of breast cancer based on gene expression data and ensemble feature selection)](https://github.com/zpliulab/EFSmarker)
+# [EFSmarker: Identifying diagnostic biomarkers of breast cancer based on gene expression data and ensemble feature selection](https://github.com/zpliulab/EFSmarker)
 
 ![Screenshot](Data/EFSmarker.jpg)
 
@@ -13,7 +13,8 @@ In this work, we provide **propose an ensemble feature selection method for biom
 
 
 ## Citation
-Li, Lingyu, et al. "**Identifying Diagnostic Biomarkers of Breast Cancer Based on Gene Expression Data and Ensemble Feature Selection Methods**." Current Bioinformatics, 2023, 18(3): 232-246. [EFSmarker paper website](https://www.eurekaselect.com/article/128764)
+Li, Lingyu, et al. "**Identifying Diagnostic Biomarkers of Breast Cancer Based on Gene Expression Data and Ensemble Feature Selection Methods**." [Current Bioinformatics](https://benthamscience.com/journal/cbio), 2023, 18(3): 232-246. [EFSmarker paper website](https://www.eurekaselect.com/article/128764)
+
 
 ## Data
 <!--START_SECTION:news-->
